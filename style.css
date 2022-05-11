@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    font-size: 30px;
+    text-align: center;
+}
+
+.arrayBox {
+    background-color: palevioletred;
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    position: relative;
+    margin-top: 100px;
+}
+
+.singleBlockBox {
+    width: 20px;
+    background-color: aqua;
+    position: absolute;
+    bottom: 0px;
+    transition: 0.2s all ease;
+}
+
+.block_id {
+    position: absolute;
+    color: black;
+    margin-top: -20px;
+    width: 100%;
+    text-align: center;
+}
