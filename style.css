@@ -2,15 +2,17 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: rgb(230, 244, 239);
 }
 
 header {
     font-size: 30px;
     text-align: center;
+    background-image: url("/Untitled\ design.png");
 }
 
 .arrayBox {
-    background-color: palevioletred;
+    background-image: url("/Untitled\ design.png");
     height: 400px;
     width: 400px;
     margin: auto;
